@@ -1,0 +1,14 @@
+.success {
+    background-color: lightgreen;
+    padding: 1em;
+}
+
+.error {
+    background-color: tomato;
+    padding: 1em;
+}
+
+table .btnedit {
+    color: aqua;
+    cursor: pointer;
+}
